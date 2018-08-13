@@ -1,1 +1,2 @@
-text current txt file.
+test current txt file.
+test again.
